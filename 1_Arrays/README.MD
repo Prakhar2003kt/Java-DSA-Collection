@@ -1,4 +1,4 @@
-# Alpha Java DSA Collection
+# Java DSA Collection
 
 A curated collection of Java implementations for core Data Structures and Algorithms. Organized by topic (arrays, strings, sorting, recursion, backtracking, trees, graphs, stacks, queues, greedy, binary trees, BSTs, etc.). This repo represents hands-on problem solving and clean, readable Java code.
 
