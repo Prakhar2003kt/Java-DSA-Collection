@@ -1,6 +1,6 @@
-# Java DSA Collection
+# Java DSA Practice Repo
 
-A curated collection of Java implementations for core Data Structures and Algorithms. Organized by topic (arrays, strings, sorting, recursion, backtracking, trees, graphs, stacks, queues, greedy, binary trees, BSTs, etc.). This repo represents hands-on problem solving and clean, readable Java code.
+This repo contains a curated collection of Java programs and problem solutions that I’ve solved while learning and practicing key DSA concepts. Each problem is implemented with clarity, efficiency, and proper comments to make it easy to understand and revise.
 
 ## Highlights
 - Arrays: max subarray (Kadane), two-pointers, binary search variants
@@ -52,6 +52,6 @@ for d in */; do find \"$d\" -name \"*.java\" >/dev/null 2>&1 && javac -d \".buil
 ## Notes
 - No external libraries required.
 - Java version used for checks: `javac 25` (any modern JDK 8+ should work for most files).
-- Class files and build outputs are ignored by `.gitignore`.
+
 
 
